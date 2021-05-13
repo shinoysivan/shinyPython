@@ -2,7 +2,7 @@
 - 👀 I’m interested in DS and other ML topics
 - 🌱 I’m currently learning DS
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me shinoycsivan@gmail.com/ hello@thriveinfinite.co
+- 📫 How to reach me shinoycsivan@gmail.com
 
 <!---
 shinyPython/shinyPython is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
